@@ -1,0 +1,16 @@
+PODS:
+  - BigInt (0.0.1)
+
+DEPENDENCIES:
+  - BigInt (from `../`)
+
+EXTERNAL SOURCES:
+  BigInt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BigInt: 219d2e9b7173a52198698c936561c50f382ac8b8
+
+PODFILE CHECKSUM: 38cc97077193983b4ab7a07ddfa86646f5c009d1
+
+COCOAPODS: 1.9.3

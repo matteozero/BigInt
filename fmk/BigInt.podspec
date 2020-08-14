@@ -23,12 +23,9 @@ Pod::Spec.new do |s|
   s.requires_arc          = true
   s.static_framework = true
   s.swift_versions = ['5.0']
-
-
-
-  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
-
-  s.source_files = 'BigInt/Classes/**/*'
+  
+  s.vendored_frameworks = 'fmk/BigInt.framework'
+  s.preserve_paths = 'fmk/BigInt.framework'
 
   # s.resource_bundles = {
   #   'BigInt' => ['BigInt/Assets/*.xcassets']
