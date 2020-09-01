@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BigInt'
-  s.version          = '5.1.2'
+  s.version          = '5.1.3'
   s.summary          = 'A short description of BigInt.'
   s.description      = <<-DESC
   TODO: Add long description of the pod here.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '10.0'
   s.requires_arc          = true
-  s.static_framework = true
+#  s.static_framework = true
   s.swift_versions = ['5.0']
 
 
