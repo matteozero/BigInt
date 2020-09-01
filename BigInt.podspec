@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BigInt'
-  s.version          = '0.0.1'
+  s.version          = '5.1.2'
   s.summary          = 'A short description of BigInt.'
   s.description      = <<-DESC
   TODO: Add long description of the pod here.

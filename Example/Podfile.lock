@@ -1,5 +1,5 @@
 PODS:
-  - BigInt (0.0.1)
+  - BigInt (5.1.2)
 
 DEPENDENCIES:
   - BigInt (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BigInt: 219d2e9b7173a52198698c936561c50f382ac8b8
+  BigInt: a606eebd97c335a1dd0aa24d36b0669a13183e18
 
 PODFILE CHECKSUM: 38cc97077193983b4ab7a07ddfa86646f5c009d1
 

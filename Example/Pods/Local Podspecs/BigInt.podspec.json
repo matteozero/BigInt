@@ -1,6 +1,6 @@
 {
   "name": "BigInt",
-  "version": "0.0.1",
+  "version": "5.1.2",
   "summary": "A short description of BigInt.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/matteozero/BigInt",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/matteozero/BigInt.git",
-    "tag": "0.0.1"
+    "tag": "5.1.2"
   },
   "platforms": {
     "ios": "10.0"
